@@ -1,0 +1,18 @@
+p {
+    color: green;
+    text-align: center;
+    height: 50px;
+    width: 100px;
+    padding: 20px;
+    border: 2px solid blue;
+    margin: 30px;
+}
+
+#campo1{
+    background-color: red;
+}
+
+.ejemplo{
+    background-color: yellow;
+}
+
