@@ -33,7 +33,7 @@ body{
     pad: 5px 15px;
     background: -webkit-linear-gradient(top,#ffffff,#006699);
 }
-}
+
 #seccion{
     float: left;
     width: 660px;
@@ -45,9 +45,6 @@ body{
     margin: 20px 0px;
     padding: 20px;
     background: #cccccc;
-    transform: rotate(10deg);
-    transform: rotate(10deg);
-
 
     
 }
@@ -69,4 +66,13 @@ article footer{
     list-style: none;
     padding: 5px;
     font: bold 14px verdana, sans-serif;
-   
+}
+.miForma{
+    width: 180px;
+    clear: both;
+}
+
+.miForma input{
+    width: 100%;
+    clear: both;
+}
