@@ -52,10 +52,10 @@ body{
 article{
     background: #fffbcc;
     border: 1px solid #999999;
-    padding: 20px;
+    padding: 20px 20px 20px 20px;
     margin-bottom: 15px;
     border-radius: 20px;
-    box-shadow: rgb(150,150,150)5px 5px;
+   box-shadow: black 3px 3px 20px ;
 }
 
 article footer{
